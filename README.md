@@ -23,7 +23,9 @@ This repository contains my solutions to the Striver A2Z DSA Sheet.
 
 ### Arrays
 - [x] Largest Element
-- [ ] Second Largest Element
+- [x] Second Largest Element
+- [x] Check if the Array is Sorted II
+- [x] Remove duplicates from Sorted array
 
 ---
 
