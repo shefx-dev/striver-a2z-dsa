@@ -26,6 +26,10 @@ This repository contains my solutions to the Striver A2Z DSA Sheet.
 - [x] Second Largest Element
 - [x] Check if the Array is Sorted II
 - [x] Remove duplicates from Sorted array
+- [x] Left Rotate Array by One
+- [x] Left Rotate Array by K Places
+- [x] Move Zeros to End
+- [x] Linear Search
 
 ---
 
