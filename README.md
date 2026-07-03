@@ -21,8 +21,6 @@ This repository contains my solutions to the Striver A2Z DSA Sheet.
 
 ## ✅ Progress
 
-- Committed 4 files on 2026-07-03 by @shefx-dev
-
 ### Arrays
 - [x] Largest Element
 - [x] Second Largest Element
@@ -32,6 +30,10 @@ This repository contains my solutions to the Striver A2Z DSA Sheet.
 - [x] Left Rotate Array by K Places
 - [x] Move Zeros to End
 - [x] Linear Search
+- [x] Union of two sorted arrays
+- [x] Find missing number
+- [x] Maximum Consecutive Ones
+- [x] Single Number 1
 
 ---
 
