@@ -21,6 +21,8 @@ This repository contains my solutions to the Striver A2Z DSA Sheet.
 
 ## ✅ Progress
 
+- Committed 4 files on 2026-07-03 by @shefx-dev
+
 ### Arrays
 - [x] Largest Element
 - [x] Second Largest Element
