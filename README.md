@@ -34,6 +34,7 @@ This repository contains my solutions to the Striver A2Z DSA Sheet.
 - [x] Find missing number
 - [x] Maximum Consecutive Ones
 - [x] Single Number 1
+- [ ] 
 
 ---
 
